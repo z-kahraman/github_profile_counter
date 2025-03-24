@@ -15,7 +15,7 @@ Replace `zkben` with your own GitHub username:
 
 Example badge:
 
-![View Counter](https://your-railway-url.up.railway.app/badge?page_id=zkben)
+![View Counter](https://githubprofilecounter-production.up.railway.app/badge?page_id=zkben)
 
 ---
 
