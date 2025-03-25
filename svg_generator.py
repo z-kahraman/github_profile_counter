@@ -1,9 +1,9 @@
 def generate_svg_badge(page_id: str, count: int) -> str:
     return f"""
-    <svg xmlns="http://www.w3.org/2000/svg" width="200" height="40">
-      <rect width="200" height="40" fill="#2d2d2d" rx="6" />
-      <text x="12" y="25" fill="#00ffcc" font-size="16" font-family="Arial">
-        👁️ {count} views
+    <svg xmlns="http://www.w3.org/2000/svg" width="150" height="30">
+      <rect width="150" height="30" fill="#24292e" rx="4"/>
+      <text x="10" y="20" fill="#00ffcc" font-size="14" font-family="sans-serif">
+        Views: {count}
       </text>
     </svg>
     """
